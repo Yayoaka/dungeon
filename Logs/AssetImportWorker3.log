@@ -1,0 +1,554 @@
+Using pre-set license
+Built from '6000.0/staging' branch; Version is '6000.0.36f1 (9fe3b5f71dbb) revision 10478517'; Using compiler version '193933523'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Education' Language: 'fr' Physical Memory: 15693 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.0.36f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker3
+-projectPath
+C:/perso/ynov/unity/Dungeon
+-logFile
+Logs/AssetImportWorker3.log
+-srvPort
+60701
+-job-worker-count
+7
+-background-job-worker-count
+8
+-gc-helper-count
+1
+Successfully changed project path to: C:/perso/ynov/unity/Dungeon
+C:/perso/ynov/unity/Dungeon
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [6832]  Target information:
+
+Player connection [6832]  * "[IP] 172.25.32.1 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6832]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6832]  * "[IP] 192.168.254.1 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6832]  * "[IP] 169.254.56.215 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6832]  * "[IP] 169.254.112.1 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [6832]  * "[IP] 192.168.1.84 [Port] 0 [Flags] 2 [Guid] 395381135 [EditorId] 395381135 [Version] 1048832 [Id] WindowsEditor(7,LUCAS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Unable to join player connection multicast group (err: 10013).
+Player connection [6832] Host joined alternative multi-casting on [225.0.0.222:34997]...
+JobSystem: Creating JobQueue using job-worker-count value 7
+Input System module state changed to: Initialized.
+[Physics::Module] Initialized fallback backend.
+[Physics::Module] Id: 0xdecafbad
+Library Redirect Path: Library/
+[Physics::Module] Selected backend.
+[Physics::Module] Name: PhysX
+[Physics::Module] Id: 0xf2b8ea05
+[Physics::Module] SDK Version: 4.1.2
+[Physics::Module] Integration Version: 1.0.0
+[Physics::Module] Threading Mode: Multi-Threaded
+Refreshing native plugins compatible for Editor in 330.38 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 6000.0.36f1 (9fe3b5f71dbb)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/perso/ynov/unity/Dungeon/Assets
+GfxDevice: creating device client; kGfxThreadingModeNonThreaded
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x164c)
+    Vendor:   ATI
+    VRAM:     7846 MB
+    Driver:   31.0.21910.4002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56772
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/6000.0.36f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002900 seconds.
+- Loaded All Assemblies, in  0.643 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.457 seconds
+Domain Reload Profiling: 1096ms
+	BeginReloadAssembly (342ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (58ms)
+	LoadAllAssembliesAndSetupDomain (182ms)
+		LoadAssemblies (337ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (178ms)
+			TypeCache.Refresh (176ms)
+				TypeCache.ScanAssembly (160ms)
+			BuildScriptInfoCaches (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (458ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (397ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (34ms)
+			SetLoadedEditorAssemblies (7ms)
+			BeforeProcessingInitializeOnLoad (80ms)
+			ProcessInitializeOnLoadAttributes (202ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in 11.083 seconds
+Refreshing native plugins compatible for Editor in 2.19 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.747 seconds
+Domain Reload Profiling: 12812ms
+	BeginReloadAssembly (200ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (36ms)
+	RebuildCommonClasses (42ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (53ms)
+	LoadAllAssembliesAndSetupDomain (10755ms)
+		LoadAssemblies (10562ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (314ms)
+			TypeCache.Refresh (229ms)
+				TypeCache.ScanAssembly (210ms)
+			BuildScriptInfoCaches (67ms)
+			ResolveRequiredComponents (14ms)
+	FinalizeReload (1748ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1093ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (287ms)
+			ProcessInitializeOnLoadAttributes (624ms)
+			ProcessInitializeOnLoadMethodAttributes (160ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 3.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 223 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 6691 unused Assets / (4.0 MB). Loaded Objects now: 7380.
+Memory consumption went from 168.6 MB to 164.6 MB.
+Total: 15.771900 ms (FindLiveObjects: 1.609500 ms CreateObjectMapping: 1.425700 ms MarkObjects: 7.687900 ms  DeleteObjects: 5.046900 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 879317.640676 seconds.
+  path: Assets/Sprites/Effect/Water/Water 1/water1_00037.png
+  artifactKey: Guid(7c19b7555a8d9e74fb3c41be6546cc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 1/water1_00037.png using Guid(7c19b7555a8d9e74fb3c41be6546cc90) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1d4ae601e37cd3642f92f702e0eca351') in 0.1718043 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Sprites/Effect/Water/Water 1/water1_00048.png
+  artifactKey: Guid(a09a4004c74a40c408134333ab1156f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 1/water1_00048.png using Guid(a09a4004c74a40c408134333ab1156f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3bcc107bf9de571f5c979de42aba5d85') in 0.0368668 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.405428 seconds.
+  path: Assets/Sprites/Effect/Water/Water 2/warer20011.png
+  artifactKey: Guid(9c9a1e38a4627f446a04e0a5b1eb64d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 2/warer20011.png using Guid(9c9a1e38a4627f446a04e0a5b1eb64d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f1702fd24eacf93aea533765b45e6052') in 0.1328001 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 22
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000040 seconds.
+  path: Assets/Sprites/Effect/Water/Water 2/warer20015.png
+  artifactKey: Guid(1d743acf6bc519244827724ba91d5f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 2/warer20015.png using Guid(1d743acf6bc519244827724ba91d5f59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f5416f2a8a55dc58e7e771a3e0a630df') in 0.0357481 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.654416 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30011.png
+  artifactKey: Guid(52addee20342c7b46b019f370cdd9518) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30011.png using Guid(52addee20342c7b46b019f370cdd9518) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1771f17fca598be496fb223b9b41cf8a') in 0.0655861 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30012.png
+  artifactKey: Guid(ee0723a88164817408aecaf0653c856a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30012.png using Guid(ee0723a88164817408aecaf0653c856a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ddfac5c297b3b90c07c555c26277ce3') in 0.063932 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30022.png
+  artifactKey: Guid(8022d25e60941b94cb92d019ac6a8f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30022.png using Guid(8022d25e60941b94cb92d019ac6a8f5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0c690fe1e7065c5e843182888de52b90') in 0.0373681 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30021.png
+  artifactKey: Guid(38ed481d1d58d644ebe1a533fdde0b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30021.png using Guid(38ed481d1d58d644ebe1a533fdde0b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '411a45bafea6b83ba9f9b9f77e228df7') in 0.174029 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 26
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.489196 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30003.png
+  artifactKey: Guid(b6c633efc22f8754cbe4e269f2bb69b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30003.png using Guid(b6c633efc22f8754cbe4e269f2bb69b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '78b3aea54e321dbe2fb5e6082e691fd5') in 0.0305682 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Effect/Water/Water 3/water30006.png
+  artifactKey: Guid(fb3364f854d3b8a4e84346f1dcd63bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 3/water30006.png using Guid(fb3364f854d3b8a4e84346f1dcd63bc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1b9ddba936163345e38533a8096796f3') in 0.0362404 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.930358 seconds.
+  path: Assets/Sprites/Effect/Water/Water 4/water40003.png
+  artifactKey: Guid(dde8a91e854087c4db248aec0158981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 4/water40003.png using Guid(dde8a91e854087c4db248aec0158981b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '06269f0591c5db80180adc44db7d0c1a') in 0.0345626 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Sprites/Effect/Water/Water 4/water40007.png
+  artifactKey: Guid(1390f67c5ecf83a42acff1c203caf059) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 4/water40007.png using Guid(1390f67c5ecf83a42acff1c203caf059) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '04fd731ee85cadf329eace63c80f9056') in 0.1763541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sprites/Effect/Water/Water 4/water40012.png
+  artifactKey: Guid(8a2a1c1b200f22847bd1d3e9819be3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 4/water40012.png using Guid(8a2a1c1b200f22847bd1d3e9819be3a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8994649ca0c46d2091cc6685156224df') in 0.2041073 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 30
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.196094 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_03.png
+  artifactKey: Guid(31eb9463232328945a66353859114ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_03.png using Guid(31eb9463232328945a66353859114ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a05e95532ef9f0cf3903fc5f22698079') in 0.0319742 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_07.png
+  artifactKey: Guid(c733333be96117b4e8d5a68acbf5b400) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_07.png using Guid(c733333be96117b4e8d5a68acbf5b400) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '52c7acaa410985a6523b2003381cf420') in 0.0368878 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_11.png
+  artifactKey: Guid(9551a900e4b83184182f8f4961b9a150) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_11.png using Guid(9551a900e4b83184182f8f4961b9a150) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ba11e3cbce940d1ec11ef3d0794a0d5') in 0.0393495 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_15.png
+  artifactKey: Guid(2340189396f67f0488ed486e9f29deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_15.png using Guid(2340189396f67f0488ed486e9f29deea) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd06a703f89287f412e9342bc493dc1bf') in 0.0526408 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_19.png
+  artifactKey: Guid(a6b381455425c26468446d57b604ee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_19.png using Guid(a6b381455425c26468446d57b604ee02) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '02466920598f51798babf32b83241a2b') in 0.0823529 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 13
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_27.png
+  artifactKey: Guid(21834862d8ff7544594e993c212f7ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_27.png using Guid(21834862d8ff7544594e993c212f7ab2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '1f8d1e79382626da34c44a1f4fddd549') in 0.0504409 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000059 seconds.
+  path: Assets/Sprites/Effect/Water/Water 5/water5_22.png
+  artifactKey: Guid(4c24fe9dc29681b4681d773f88ba6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 5/water5_22.png using Guid(4c24fe9dc29681b4681d773f88ba6f5d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6fe523b0224416bf79dee3239368c7c3') in 0.0873475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.612436 seconds.
+  path: Assets/Sprites/Effect/Water/Water 6/water60003.png
+  artifactKey: Guid(fa1357817ee561f4ab36357d630f39e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 6/water60003.png using Guid(fa1357817ee561f4ab36357d630f39e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'af2b1cbabb93f78f853de3edd433bd77') in 0.1095899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 19
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Sprites/Effect/Water/Water 6/water60010.png
+  artifactKey: Guid(eadd7e8a679e7234ea427a7b4273e0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 6/water60010.png using Guid(eadd7e8a679e7234ea427a7b4273e0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cca2cc3ac093c92daaa5d2988ff271be') in 0.0446274 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000047 seconds.
+  path: Assets/Sprites/Effect/Water/Water 6/water60007.png
+  artifactKey: Guid(b9f12eff81c25204683932a419b2ad1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 6/water60007.png using Guid(b9f12eff81c25204683932a419b2ad1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6ffc791bf801370e709543b09b67c484') in 0.1164505 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.102970 seconds.
+  path: Assets/Sprites/Effect/Water/Water 7/water70003.png
+  artifactKey: Guid(238c14b1b21176e4f93c4bd2383fb6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 7/water70003.png using Guid(238c14b1b21176e4f93c4bd2383fb6d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f0f360bd4cd2052f3adec963b8f20df1') in 0.0563454 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 8
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Effect/Water/Water 7/water70008.png
+  artifactKey: Guid(4097681e09558e54a803775da745087a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 7/water70008.png using Guid(4097681e09558e54a803775da745087a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e606e57b607eb6d7e57d6f355aa97b0') in 0.0567491 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Sprites/Effect/Water/Water 7/water70012.png
+  artifactKey: Guid(fa4d5d97ee7439c469804ce94457f896) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 7/water70012.png using Guid(fa4d5d97ee7439c469804ce94457f896) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '82e3aa1f873b87e4ebc5a09da31630b7') in 0.2482283 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 38
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.379280 seconds.
+  path: Assets/Sprites/Effect/Water/Water 8/water100003.png
+  artifactKey: Guid(9593a23789a230a4ba65ce3c0139f0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 8/water100003.png using Guid(9593a23789a230a4ba65ce3c0139f0ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'db30defda2e86c9820626697a0b271c1') in 0.0346211 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Sprites/Effect/Water/Water 8/water100007.png
+  artifactKey: Guid(194f7f9ee0c487748bdbc9ff23945e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 8/water100007.png using Guid(194f7f9ee0c487748bdbc9ff23945e8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21c025d8c965bd0797b58591c0dddd9e') in 0.0291358 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/Effect/Water/Water 8/water100011.png
+  artifactKey: Guid(a6a49a21ecb31034588f8c19f7cc226d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 8/water100011.png using Guid(a6a49a21ecb31034588f8c19f7cc226d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d7223b4fbed563e9d4a953763411503') in 0.0389096 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/Sprites/Effect/Water/Water 8/water100016.png
+  artifactKey: Guid(62612195729dc104086a97b56d689988) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 8/water100016.png using Guid(62612195729dc104086a97b56d689988) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8a768bf0e92ee6e97c1d540a97e12775') in 0.03052 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Sprites/Effect/Water/Water 8/water100020.png
+  artifactKey: Guid(ec36b546a89b4b94da4cb81b6093fba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 8/water100020.png using Guid(ec36b546a89b4b94da4cb81b6093fba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '45753ea410b01f84f7f5a994c3aaf91b') in 0.0367462 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.511621 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90003.png
+  artifactKey: Guid(f0031a25e48666440a4a900d9ee1e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90003.png using Guid(f0031a25e48666440a4a900d9ee1e3be) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6a976c11c83439bebe8c83328899a529') in 0.0433399 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 5
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90007.png
+  artifactKey: Guid(92cb4752573df804aa7e84cf4d0286e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90007.png using Guid(92cb4752573df804aa7e84cf4d0286e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '63cff3fd21e90ad644da1e88795e4575') in 0.0313006 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90011.png
+  artifactKey: Guid(23ba15bd83448fe4f9139b2308fba31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90011.png using Guid(23ba15bd83448fe4f9139b2308fba31e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3d48efccf53da0663c73dce0724cefba') in 0.0338977 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000060 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90016.png
+  artifactKey: Guid(937dfa2d19e630942b2ce688ca2333fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90016.png using Guid(937dfa2d19e630942b2ce688ca2333fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'b559687a4758475c78eb67cf9ec2d7f7') in 0.0585221 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90022.png
+  artifactKey: Guid(9a490413cae18ea41916290a02a8d27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90022.png using Guid(9a490413cae18ea41916290a02a8d27d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '349b6558b451fc230ceff4122444891b') in 0.0990027 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 16
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90031.png
+  artifactKey: Guid(046f11cef5a6ab347968af0c22a67a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90031.png using Guid(046f11cef5a6ab347968af0c22a67a5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'ec2bc38db3cab9563010928c468d2cae') in 0.0705698 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90024.png
+  artifactKey: Guid(050ff44ed6b441347aabb87fb7da3619) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90024.png using Guid(050ff44ed6b441347aabb87fb7da3619) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7d087f688a4dad6de3fbfa143ea4125e') in 0.0917796 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Effect/Water/Water 9/water90028.png
+  artifactKey: Guid(b50d72059b010ef419f446353c405cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 9/water90028.png using Guid(b50d72059b010ef419f446353c405cf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'bd176ee766ab3fa596a81a2201a337c9') in 0.1226821 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 17
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.288287 seconds.
+  path: Assets/Sprites/Effect/Water/Water 10/Png_03.png
+  artifactKey: Guid(1f6f959ec3683214a95f24487dccc6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 10/Png_03.png using Guid(1f6f959ec3683214a95f24487dccc6b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '96f5347738458317d61315ae1868fa47') in 0.054198 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Sprites/Effect/Water/Water 10/Png_07.png
+  artifactKey: Guid(810d5a5098220de448c81aca6a5b3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 10/Png_07.png using Guid(810d5a5098220de448c81aca6a5b3570) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '4ae65a3c57edb0dde5e25aeefcf5d0bd') in 0.0756469 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Sprites/Effect/Water/Water 10/Png_13.png
+  artifactKey: Guid(4dfd8958f17e47948b2f1457cacf25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 10/Png_13.png using Guid(4dfd8958f17e47948b2f1457cacf25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '5f55604e42b144f13f3e3be5dacf344b') in 0.0338598 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Sprites/Effect/Water/Water 10/Png_11.png
+  artifactKey: Guid(d8f1f16c9e6cd0040864fefffe84a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 10/Png_11.png using Guid(d8f1f16c9e6cd0040864fefffe84a030) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'aff5cc15ae7dbbee71be86b422bc9454') in 0.2003046 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 36
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.677820 seconds.
+  path: Assets/Sprites/Effect/Water/Water 2/warer20004.png
+  artifactKey: Guid(09a0152e8fee90e4d81bfc6c2b99958d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 2/warer20004.png using Guid(09a0152e8fee90e4d81bfc6c2b99958d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c729d34a34394d12eb3bfb65c1c2770a') in 0.0309098 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Sprites/Effect/Water/Water 2/warer20007.png
+  artifactKey: Guid(62917dd81e0d6714b96cfc8b48d0798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Sprites/Effect/Water/Water 2/warer20007.png using Guid(62917dd81e0d6714b96cfc8b48d0798f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '7be0a4c8c23cc16c2e42376ec78fef51') in 0.0556845 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 7
+
